@@ -1,5 +1,5 @@
 {
-  "name": "metalsmith-i18n",
+  "name": "@emanueleperuffo/metalsmith-i18n",
   "version": "0.2.0",
   "description": "Translate strings in Metalsmith templates",
   "author": "doup <asier@illarra.com>",
